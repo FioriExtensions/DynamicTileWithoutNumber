@@ -8,7 +8,7 @@
     "targetFolder": "dist",
     "sourceFolder": "webapp",
     "buildRequired": false,
-    "lastBuildDateTime": "Wed, 07 Dec 2016 03:57:10 GMT"
+    "lastBuildDateTime": "Wed, 26 Jul 2017 04:20:18 GMT"
   },
   "generation": [
     {
@@ -37,7 +37,7 @@
     "blockPushLevel": "Error"
   },
   "deploy": {
-    "destination": "EH1_Direct",
-    "name": "ZDYN_TILE"
+    "destination": "Gateway_Dev",
+    "name": "ZCIS_CUS_TILE"
   }
 }
